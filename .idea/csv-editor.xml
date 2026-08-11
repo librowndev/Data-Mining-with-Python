@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\07 Regression\book-notebooks\kc_house_data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
